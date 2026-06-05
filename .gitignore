@@ -1,0 +1,21 @@
+# 編譯產出的二進位檔案
+bin/
+thsrc-decrypt-*
+
+# 程式產出的結果資料夾
+decrypted/
+
+# Go 相關
+go.sum
+# 如果你希望保留依賴版本記錄，可以不忽略 go.sum。
+# 但通常建議保留 go.mod 並忽略本地產生的 vendor (若有使用)
+vendor/
+
+# 作業系統暫存檔
+.DS_Store
+Thumbs.db
+
+# IDE 設定
+.vscode/
+.idea/
+*.swp
