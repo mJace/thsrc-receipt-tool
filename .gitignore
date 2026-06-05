@@ -4,6 +4,7 @@ thsrc-decrypt-*
 
 # 程式產出的結果資料夾
 decrypted/
+input_pdfs/*
 
 # Go 相關
 go.sum
